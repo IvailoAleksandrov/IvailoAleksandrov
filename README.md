@@ -5,7 +5,7 @@ Now I am studing C# in SoftUni and i want to start career as a junior CSharp dev
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 My courses from SoftUni - Programming Basics with C#, Programming Fundamentals with C#
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-Dream. Do . Deliever.
+
 
 - 🔭 I’m currently working on Me :)
 - 🌱 I’m currently learning a lot :)
