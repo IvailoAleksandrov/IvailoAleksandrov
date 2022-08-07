@@ -13,6 +13,5 @@ Dream. Do . Deliever.
 - 🤔 I’m looking for help with finding first IT job :)
 - 💬 Ask me about - everything.
 - 📫 How to reach me: facebook Ivailo Aleksandrov
-- 😄 Pronouns: ...
 - ⚡ Fun fact: 
 
