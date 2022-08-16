@@ -7,11 +7,7 @@ My courses from SoftUni - Programming Basics with C#, Programming Fundamentals w
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
 
-- 🔭 I’m currently working on Me :)
-- 🌱 I’m currently learning a lot :)
-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with finding first IT job :)
 - 💬 Ask me about - everything.
-- 📫 How to reach me: facebook Ivailo Aleksandrov
-- ⚡ Fun fact: 
+- 📫 How to reach me: https://www.linkedin.com/in/ivailo-aleksandrov-484b66248/
 
