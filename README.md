@@ -10,9 +10,5 @@ and C# Web with - ASP.NET Fundamentals and ASP.NET Advanced.
 
 - 🤔 I’m looking for software developer -  Juniour or Intern position.
 - 💬 I am Open to Ask me about everything.
-LinkedIn https://www.linkedin.com/in/ivailo-aleksandrov-484b66248/
-
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="ivailo-aleksandrov-484b66248" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://bg.linkedin.com/in/ivailo-aleksandrov-484b66248?trk=profile-badge">Ivailo Aleksandrov</a></div>
-              
+- LinkedIn https://www.linkedin.com/in/ivailo-aleksandrov-484b66248/
 
