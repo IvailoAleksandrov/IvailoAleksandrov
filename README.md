@@ -16,6 +16,7 @@ Skills:
 ![214412](https://user-images.githubusercontent.com/110155667/212263789-f130824d-df9b-4250-8b79-9b720fa048c2.png)
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+Connect me:
 
-Connect with me:
-www.linkedin.com/in/ivailo-aleksandrov
+![LI-In-Bug](https://user-images.githubusercontent.com/110155667/212267714-624bcfc0-8fb7-4839-8a82-c86c16f6c32c.png)
+www.linkedin.com/in/ivailo-aleksandrov-484b66248
