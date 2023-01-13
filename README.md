@@ -15,5 +15,7 @@ Skills:
 ![sql-server-logo](https://user-images.githubusercontent.com/110155667/212263117-6109d79e-8ebf-4088-812c-05f32d9aafa9.png)
 ![214412](https://user-images.githubusercontent.com/110155667/212263789-f130824d-df9b-4250-8b79-9b720fa048c2.png)
 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
-
+Connect with me:
+www.linkedin.com/in/ivailo-aleksandrov
