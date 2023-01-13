@@ -4,7 +4,8 @@ my previous experience will be useful in solving future projects.
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 My courses from SoftUni - Programming Basics with C#, Programming Fundamentals with C#, C# Advanced and OOP
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-
+My new goals are C# DataBase that include MS SQL and Entity Framework Core
+and C# Web with - ASP.NET Fundamentals and ASP.NET Advanced.
 
 - 🤔 I’m looking for starting a new IT job :)
 - 💬 Ask me about - everything.
