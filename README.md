@@ -6,6 +6,7 @@ My courses from SoftUni - Programming Basics with C#, Programming Fundamentals w
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 My new goals are C# DataBase that include MS SQL and Entity Framework Core
 and C# Web with - ASP.NET Fundamentals and ASP.NET Advanced.
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
 - 🤔 I’m looking for software developer -  Juniour or Intern position.
 - 💬 I am Open to Ask me about everything.
