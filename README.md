@@ -1,5 +1,5 @@
 Hi, I am Ivailo Aleksandrov. Now i am working as a QA specialist. I had a lot of experience in accountant , finance and e-commerce. I hope that 
-my previous experience will be useful in solving future projects.
+my previous experience will be useful in future projects.
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 My courses from SoftUni - Programming Basics with C#, Programming Fundamentals with C#, C# Advanced and OOP
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
