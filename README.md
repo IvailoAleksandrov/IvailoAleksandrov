@@ -20,11 +20,11 @@ Hi! I am looking for a position as a Manual or Automation QA engineer. I have ex
 - SQL Server Management Studio
 - English - B2/C1
 
-#Interests 
+# Interests 
 - Active Living,
 - Cryptocurrencies
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-Courses:
+# Courses:
 - Postman: The Complete Guide - REST API Testing
 - Software Testing MASTERCLASS-2023-JIRA | AGILE | API Testing
 - Cypress End-to-End Testing (JS)
@@ -38,7 +38,7 @@ Courses:
   - Entity Framework Core with C#
   - MS SQL
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-Connect me:
+# Connect me:
 - ivailoaleksandrov123@gmail.com
 - www.linkedin.com/in/ivailo-aleksandrov-484b66248
 - +359 883485045
