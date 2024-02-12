@@ -40,5 +40,5 @@ Courses:
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 Connect me:
 
-![LI-In-Bug](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/480px-LinkedIn_icon_circle.svg.png)
+![LI-In-Bug](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/480px-LinkedIn_icon_circle.svg.png](https://cdn-icons-png.flaticon.com/256/174/174857.png)https://cdn-icons-png.flaticon.com/256/174/174857.png)
 www.linkedin.com/in/ivailo-aleksandrov-484b66248
