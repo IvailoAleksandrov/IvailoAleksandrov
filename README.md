@@ -39,6 +39,6 @@ Courses:
   - MS SQL
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 Connect me:
-
-![LI-In-Bug](https://cdn-icons-png.flaticon.com/256/174/174857.png)
+ivailoaleksandrov123@gmail.com
++359 883485045
 www.linkedin.com/in/ivailo-aleksandrov-484b66248
