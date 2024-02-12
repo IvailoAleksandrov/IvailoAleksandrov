@@ -3,32 +3,26 @@ Hi! I am looking for a position as a Manual or Automation QA engineer. I have ex
 #Skills:
 - JavaScript
 - Node.js
-C#/.NET
-Cypress E2E Testing
-Manual/Automation Testing
-POSTMAN API Testing 
-Chrome DevTools
-MS SQL
-HTML5 & CSS
-ClickUp
-Slack
-Jira
-GitHub
-HTTP
-Object-Oriented Programming
-VS Code / Visual Studio
-SQL Server Management Studio
-Microsoft Excel
-E-commerce
-Accounting / Finance
+- C#/.NET
+- Cypress E2E Testing
+- Manual/Automation Testing
+- POSTMAN API Testing 
+- Chrome DevTools
+- MS SQL
+- HTML5 & CSS
+- ClickUp
+- Slack
+- Jira
+- GitHub
+- HTTP
+- Object-Oriented Programming
+- VS Code / Visual Studio
+- SQL Server Management Studio
+- English - B2/C1
 
-English - B2/C1
-
-Interests 
-Active Living,
-Cryptocurrencies
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-
+#Interests 
+- Active Living,
+- Cryptocurrencies
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
