@@ -31,7 +31,12 @@ Courses:
 - Modern JavaScript From Beginner to Advanced 2.0 - 2023
 - Quality Assurance Course
 - Software University
-- - Programming Basics, Fundamentals, Advanced, OOP, Entity Framework Core with C# 
+  - Programming Basics
+  - Fundamentals
+  - Advanced
+  - OOP
+  - Entity Framework Core with C#
+  - MS SQL
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 Connect me:
 
