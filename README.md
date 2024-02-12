@@ -1,17 +1,35 @@
-Hi, I am Ivailo Aleksandrov. Now i am working as a QA specialist. I had a lot of experience in accountant , finance and e-commerce. I hope that 
-my previous experience will be useful in future projects.
+Hi! I am looking for a position as a Manual or Automation QA engineer. I have experience in Manual Testing and I want to develop my skills in Automation testing. Choosing the path of Automation QA signifies my dedication to enhancing efficiency, accuracy, and scalability in software testing. Embracing automation empowers me to contribute significantly to delivering high-quality products, elevating both my skills and the overall development process.I have experience in accountant , finance and e-commerce. I hope that my previous experience will be useful in future projects that i am involved. I am positive person. Outside of work I keep myself fit and active.
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-My courses from SoftUni - Programming Basics with C#, Programming Fundamentals with C#, C# Advanced and OOP
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-C# DataBase that include MS SQL and Entity Framework Core
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-
 Skills:
+JavaScript
+Node.js
+C#/.NET
+Cypress E2E Testing
+Manual/Automation Testing
+POSTMAN API Testing 
+Chrome DevTools
+MS SQL
+HTML5 & CSS
+ClickUp
+Slack
+Jira
+GitHub
+HTTP
+Object-Oriented Programming
+VS Code / Visual Studio
+SQL Server Management Studio
+Microsoft Excel
+E-commerce
+Accounting / Finance
 
-![Csharp_Logo](https://user-images.githubusercontent.com/110155667/212262873-55d61e62-797c-4f54-b0b5-9d4d67a82d96.png)
-![github-desktop-2021-05-20](https://user-images.githubusercontent.com/110155667/212262887-498ecffc-946e-412f-b51d-0d264c2ef31d.png)
-![sql-server-logo](https://user-images.githubusercontent.com/110155667/212263117-6109d79e-8ebf-4088-812c-05f32d9aafa9.png)
-![214412](https://user-images.githubusercontent.com/110155667/212263789-f130824d-df9b-4250-8b79-9b720fa048c2.png)
+English - B2/C1
+
+Interests 
+Active Living
+Cryptocurrencies
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 Connect me:
