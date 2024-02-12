@@ -24,7 +24,14 @@ Hi! I am looking for a position as a Manual or Automation QA engineer. I have ex
 - Active Living,
 - Cryptocurrencies
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-
+Courses:
+- Postman: The Complete Guide - REST API Testing
+- Software Testing MASTERCLASS-2023-JIRA | AGILE | API Testing
+- Cypress End-to-End Testing (JS)
+- Modern JavaScript From Beginner to Advanced 2.0 - 2023
+- Quality Assurance Course
+- Software University
+- - Programming Basics, Fundamentals, Advanced, OOP, Entity Framework Core with C# 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 Connect me:
 
