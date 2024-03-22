@@ -19,6 +19,10 @@ Hi! I am looking for a position as a Manual or Automation QA engineer. I have ex
 - VS Code / Visual Studio
 - SQL Server Management Studio
 - English - B2/C1
+ 
+# Projects
+- https://moviecollection1.netlify.app/  "Movie Collection Library App"
+- https://shoppinglistttt.netlify.app/   "Shopping List App"
 
 # Interests 
 - Active Living,
