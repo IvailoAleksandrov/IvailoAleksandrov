@@ -23,6 +23,8 @@ Hi! I am looking for a position as a Manual or Automation QA engineer. I have ex
 # Projects
 - https://moviecollection1.netlify.app/  "Movie Collection Library App"
 - https://shoppinglistttt.netlify.app/   "Shopping List App"
+- https://reactcoreconcepts.netlify.app/    "Basic React Application - Components, JSX, Props, States and more"
+
 
 # Interests 
 - Active Living,
