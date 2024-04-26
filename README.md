@@ -3,13 +3,13 @@ Hi! I am looking for a position as a Manual or Automation QA engineer. I have ex
 # Skills:
 - JavaScript
 - Node.js
-- C#/.NET
 - Cypress E2E Testing
 - Manual/Automation Testing
 - POSTMAN API Testing 
 - Chrome DevTools
 - MS SQL
 - HTML5 & CSS
+-  C#/.NET
 - ClickUp
 - Slack
 - Jira
