@@ -40,7 +40,7 @@ Thank you for visiting, and I look forward to potentially working together!
 
 
 # Interests 
-- Active Living,
+- Active Living
 - Cryptocurrencies
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 # Courses:
