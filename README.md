@@ -1,4 +1,15 @@
-Hi, My name is Ivailo Aleksandrov. And i works as QA engineer.
+HI,
+My name is Ivailo Aleksandrov.
+
+Welcome to my GitHub page! As a Quality Assurance Engineer, I'm passionate about ensuring the quality and reliability of software products. Here you'll find a showcase of my projects, contributions, and expertise in software testing and quality assurance.
+
+In my work, I strive for excellence, attention to detail, and continuous improvement. I believe that robust testing practices are essential for delivering high-quality software that meets user expectations.
+
+Feel free to explore my repositories and projects to get a glimpse of my skills and experience. Whether it's automated testing, manual testing, test automation frameworks, or quality assurance methodologies, I'm dedicated to mastering the craft and delivering value to any team or project.
+
+If you have any questions or would like to discuss potential opportunities, please don't hesitate to reach out. I'm always open to collaboration and new challenges.
+
+Thank you for visiting, and I look forward to potentially working together!
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 # Skills:
 
@@ -10,7 +21,7 @@ Hi, My name is Ivailo Aleksandrov. And i works as QA engineer.
  ![](https://github.com/IvailoAleksandrov/IvailoAleksandrovResume/blob/main/src/icons/css.webp) **CSS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**
  ![](https://github.com/IvailoAleksandrov/IvailoAleksandrovResume/blob/main/src/icons/download.webp) **C#/.NET**
 - ![](https://github.com/IvailoAleksandrov/IvailoAleksandrovResume/blob/main/src/icons/clickup.png) **ClickUp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**
- ![](https://github.com/IvailoAleksandrov/IvailoAleksandrovResume/blob/main/src/icons/Slack.png) **Slack&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**
+ ![](https://github.com/IvailoAleksandrov/IvailoAleksandrovResume/blob/main/src/icons/Slack.png) **Slack&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**
  ![](https://github.com/IvailoAleksandrov/IvailoAleksandrovResume/blob/main/src/icons/jira.png) **Jira**
 - ![](https://github.com/IvailoAleksandrov/IvailoAleksandrovResume/blob/main/src/icons/image.webp) **GitHub&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**
  ![](https://github.com/IvailoAleksandrov/IvailoAleksandrovResume/blob/main/src/icons/git.webp) **Git&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**
