@@ -15,10 +15,10 @@ Slack ![](https://github.com/IvailoAleksandrov/IvailoAleksandrovResume/blob/main
 Jira ![](https://github.com/IvailoAleksandrov/IvailoAleksandrovResume/blob/main/src/icons/jira.png)
 GitHub ![](https://github.com/IvailoAleksandrov/IvailoAleksandrovResume/blob/main/src/icons/image.webp)
 Git ![](https://github.com/IvailoAleksandrov/IvailoAleksandrovResume/blob/main/src/icons/git.webp)
-HTTP ![]
-Object-Oriented Programming ![]
+HTTP ![](https://github.com/IvailoAleksandrov/IvailoAleksandrovResume/blob/main/src/icons/http.webp)
+Object-Oriented Programming ![](https://github.com/IvailoAleksandrov/IvailoAleksandrovResume/blob/main/src/icons/oop.png)
 VS Code ![](https://github.com/IvailoAleksandrov/IvailoAleksandrovResume/blob/main/src/icons/VS%20Code.webp)
-SQL Server Management Studio ![]
+SQL Server Management Studio ![](https://github.com/IvailoAleksandrov/IvailoAleksandrovResume/blob/main/src/icons/sql.png)
 English B2/C1 ![](https://github.com/IvailoAleksandrov/IvailoAleksandrovResume/blob/main/src/icons/english.jpg)
  
 # Projects
