@@ -6,7 +6,7 @@ Hi! I am looking for a position as a Manual or Automation QA engineer. I have ex
 - ![](https://github.com/IvailoAleksandrov/IvailoAleksandrovResume/blob/main/src/icons/postman.png) **POSTMAN**
   ![](https://github.com/IvailoAleksandrov/IvailoAleksandrovResume/blob/main/src/icons/chrome.webp) **DevTools**
  ![](https://github.com/IvailoAleksandrov/IvailoAleksandrovResume/blob/main/src/icons/sql.png) **MS SQL**
-- ![](https://github.com/IvailoAleksandrov/IvailoAleksandrovResume/blob/main/src/icons/html.webp) **HTML5**
+- ![](https://github.com/IvailoAleksandrov/IvailoAleksandrovResume/blob/main/src/icons/html.webp) **HTML5....**
  ![](https://github.com/IvailoAleksandrov/IvailoAleksandrovResume/blob/main/src/icons/css.webp) **CSS**
  ![](https://github.com/IvailoAleksandrov/IvailoAleksandrovResume/blob/main/src/icons/download.webp) **C#/.NET**
 - ![](https://github.com/IvailoAleksandrov/IvailoAleksandrovResume/blob/main/src/icons/clickup.png) **ClickUp**
