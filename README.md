@@ -1,7 +1,6 @@
 Hi! I am looking for a position as a Manual or Automation QA engineer. I have experience in Manual Testing and I want to develop my skills in Automation testing. Choosing the path of Automation QA signifies my dedication to enhancing efficiency, accuracy, and scalability in software testing. Embracing automation empowers me to contribute significantly to delivering high-quality products, elevating both my skills and the overall development process. I have experience in accountant , finance and e-commerce. I hope that my previous experience will be useful in future projects that i am involved. I am positive person. Outside of work I keep myself fit and active.
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 # Skills:
-- ![]([https://example.com/udemy_icon.png](https://github.com/IvailoAleksandrov/IvailoAleksandrovResume/blob/main/src/icons/js.webp)) **[JavaScript](https://example.com/postman_course)**
 - JavaScript
 - Node.js
 - Cypress E2E Testing
@@ -14,7 +13,7 @@ Hi! I am looking for a position as a Manual or Automation QA engineer. I have ex
 - ClickUp
 - Slack
 - ![Slack](https://github.com/IvailoAleksandrov/IvailoAleksandrovResume/blob/main/src/icons/Slack.png)
-  ![Jira](https://github.com/IvailoAleksandrov/IvailoAleksandrovResume/blob/main/src/icons/jira.png)
+- ![Jira](https://github.com/IvailoAleksandrov/IvailoAleksandrovResume/blob/main/src/icons/jira.png)
 - GitHub
 - HTTP
 - Object-Oriented Programming
