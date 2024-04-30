@@ -4,19 +4,19 @@ Hi! I am looking for a position as a Manual or Automation QA engineer. I have ex
 
 - ![](https://github.com/IvailoAleksandrov/IvailoAleksandrovResume/blob/main/src/icons/js.webp) **JavaScript**  ![](https://github.com/IvailoAleksandrov/IvailoAleksandrovResume/blob/main/src/icons/cypress.webp) **Cypress E2E Testing**  ![](https://github.com/IvailoAleksandrov/IvailoAleksandrovResume/blob/main/src/icons/testautomation.png) **Manual/Automation Testing**
 - ![](https://github.com/IvailoAleksandrov/IvailoAleksandrovResume/blob/main/src/icons/postman.png) **POSTMAN API Testing**  ![](https://github.com/IvailoAleksandrov/IvailoAleksandrovResume/blob/main/src/icons/chrome.webp) **Chrome DevTools**
-- ![](https://github.com/IvailoAleksandrov/IvailoAleksandrovResume/blob/main/src/icons/sql.png) **MS SQL**
+ ![](https://github.com/IvailoAleksandrov/IvailoAleksandrovResume/blob/main/src/icons/sql.png) **MS SQL**
 - ![](https://github.com/IvailoAleksandrov/IvailoAleksandrovResume/blob/main/src/icons/html.webp) **HTML5**
-- ![](https://github.com/IvailoAleksandrov/IvailoAleksandrovResume/blob/main/src/icons/css.webp) **CSS**
-- ![](https://github.com/IvailoAleksandrov/IvailoAleksandrovResume/blob/main/src/icons/download.webp) **C#/.NET**
+ ![](https://github.com/IvailoAleksandrov/IvailoAleksandrovResume/blob/main/src/icons/css.webp) **CSS**
+ ![](https://github.com/IvailoAleksandrov/IvailoAleksandrovResume/blob/main/src/icons/download.webp) **C#/.NET**
 - ![](https://github.com/IvailoAleksandrov/IvailoAleksandrovResume/blob/main/src/icons/clickup.png) **ClickUp**
-- ![](https://github.com/IvailoAleksandrov/IvailoAleksandrovResume/blob/main/src/icons/Slack.png) **Slack**
-- ![](https://github.com/IvailoAleksandrov/IvailoAleksandrovResume/blob/main/src/icons/jira.png) **Jira**
+ ![](https://github.com/IvailoAleksandrov/IvailoAleksandrovResume/blob/main/src/icons/Slack.png) **Slack**
+ ![](https://github.com/IvailoAleksandrov/IvailoAleksandrovResume/blob/main/src/icons/jira.png) **Jira**
 - ![](https://github.com/IvailoAleksandrov/IvailoAleksandrovResume/blob/main/src/icons/image.webp) **GitHub**
-- ![](https://github.com/IvailoAleksandrov/IvailoAleksandrovResume/blob/main/src/icons/git.webp) **Git**
-- ![](https://github.com/IvailoAleksandrov/IvailoAleksandrovResume/blob/main/src/icons/http.webp) **HTTP**
+ ![](https://github.com/IvailoAleksandrov/IvailoAleksandrovResume/blob/main/src/icons/git.webp) **Git**
+ ![](https://github.com/IvailoAleksandrov/IvailoAleksandrovResume/blob/main/src/icons/http.webp) **HTTP**
 - ![](https://github.com/IvailoAleksandrov/IvailoAleksandrovResume/blob/main/src/icons/oop.png) **Object-Oriented Programming**
-- ![](https://github.com/IvailoAleksandrov/IvailoAleksandrovResume/blob/main/src/icons/VS%20Code.webp) **VS Code**
-- ![](https://github.com/IvailoAleksandrov/IvailoAleksandrovResume/blob/main/src/icons/sql.png) **SQL Server Management Studio**
+ ![](https://github.com/IvailoAleksandrov/IvailoAleksandrovResume/blob/main/src/icons/VS%20Code.webp) **VS Code**
+ ![](https://github.com/IvailoAleksandrov/IvailoAleksandrovResume/blob/main/src/icons/sql.png) **SQL Server Management Studio**
 - ![](https://github.com/IvailoAleksandrov/IvailoAleksandrovResume/blob/main/src/icons/english.jpg) **English B2/C1**
 
 
