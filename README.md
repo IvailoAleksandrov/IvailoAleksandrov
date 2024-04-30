@@ -1,4 +1,4 @@
-HI,
+Hi,
 My name is Ivailo Aleksandrov.
 
 Welcome to my GitHub page! As a Quality Assurance Engineer, I'm passionate about ensuring the quality and reliability of software products. Here you'll find a showcase of my projects, contributions, and expertise in software testing and quality assurance.
