@@ -5,7 +5,7 @@ Welcome to my GitHub page! As a Quality Assurance Engineer, I'm passionate about
 
 In my work, I strive for excellence, attention to detail, and continuous improvement. I believe that robust testing practices are essential for delivering high-quality software that meets user expectations.
 
-Feel free to explore my repositories and projects to get a glimpse of my skills and experience. Whether it's automated testing, manual testing, test automation frameworks, or quality assurance methodologies, I'm dedicated to mastering the craft and delivering value to any team or project.
+Feel free to explore my repositories and projects to get an insight into my skills and experience. Whether it's automated testing, manual testing, test automation frameworks, or quality assurance methodologies, I'm dedicated to mastering the craft and delivering value to any team or project.
 
 If you have any questions or would like to discuss potential opportunities, please don't hesitate to reach out. I'm always open to collaboration and new challenges.
 
