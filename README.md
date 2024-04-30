@@ -29,7 +29,7 @@ Thank you for visiting, and I look forward to potentially working together!
 - ![](https://github.com/IvailoAleksandrov/IvailoAleksandrovResume/blob/main/src/icons/oop.png) **OOP&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**
  ![](https://github.com/IvailoAleksandrov/IvailoAleksandrovResume/blob/main/src/icons/VS%20Code.webp) **VS Code&nbsp;&nbsp;**
  ![](https://github.com/IvailoAleksandrov/IvailoAleksandrovResume/blob/main/src/icons/english.jpg) **English B2/C1**
-- ![](https://github.com/IvailoAleksandrov/IvailoAleksandrovResume/blob/main/src/icons/chat.png)
+- ![](https://github.com/IvailoAleksandrov/IvailoAleksandrovResume/blob/main/src/icons/chat.png) **ChatGPT**
 
 
 # Projects
