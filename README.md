@@ -16,7 +16,7 @@ Hi! I am looking for a position as a Manual or Automation QA engineer. I have ex
  ![](https://github.com/IvailoAleksandrov/IvailoAleksandrovResume/blob/main/src/icons/http.webp) **HTTP**
 - ![](https://github.com/IvailoAleksandrov/IvailoAleksandrovResume/blob/main/src/icons/oop.png) **Object-Oriented Programming**
  ![](https://github.com/IvailoAleksandrov/IvailoAleksandrovResume/blob/main/src/icons/VS%20Code.webp) **VS Code**
- ![](https://github.com/IvailoAleksandrov/IvailoAleksandrovResume/blob/main/src/icons/sql.png) **SQL Server Management Studio**
+ ![](https://github.com/IvailoAleksandrov/IvailoAleksandrovResume/blob/main/src/icons/sql.png) **SQL **
 - ![](https://github.com/IvailoAleksandrov/IvailoAleksandrovResume/blob/main/src/icons/english.jpg) **English B2/C1**
 
 
