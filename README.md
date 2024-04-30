@@ -16,14 +16,10 @@ Hi! I am looking for a position as a Manual or Automation QA engineer. I have ex
  ![](https://github.com/IvailoAleksandrov/IvailoAleksandrovResume/blob/main/src/icons/http.webp) **HTTP**
 - ![](https://github.com/IvailoAleksandrov/IvailoAleksandrovResume/blob/main/src/icons/oop.png) **OOP**
  ![](https://github.com/IvailoAleksandrov/IvailoAleksandrovResume/blob/main/src/icons/VS%20Code.webp) **VS Code**
- ![](https://github.com/IvailoAleksandrov/IvailoAleksandrovResume/blob/main/src/icons/sql.png) **SQL **
-- ![](https://github.com/IvailoAleksandrov/IvailoAleksandrovResume/blob/main/src/icons/english.jpg) **English B2/C1**
+
+ ![](https://github.com/IvailoAleksandrov/IvailoAleksandrovResume/blob/main/src/icons/english.jpg) **English B2/C1**
 
 
-
-
-
- 
 # Projects
 - https://moviecollection1.netlify.app/  "Movie Collection Library App"
 - https://ivailoaleksandrov.netlify.app/ "Ivailo Aleksandrov Resume - App build with React"
