@@ -6,11 +6,12 @@ Node.js ![]
 Cypress E2E Testing ![]
 Manual/Automation Testing ![]
 POSTMAN API Testing ![]
-Chrome DevTools ![]
+Chrome DevTools ![](https://github.com/IvailoAleksandrov/IvailoAleksandrovResume/blob/main/src/icons/chrome.webp)
 MS SQL ![]
-HTML5 & CSS ![]
+HTML5 
+CSS ![](https://github.com/IvailoAleksandrov/IvailoAleksandrovResume/blob/main/src/icons/css.webp)
 C#/.NET ![]
-ClickUp ![]
+ClickUp ![](https://github.com/IvailoAleksandrov/IvailoAleksandrovResume/blob/main/src/icons/clickup.png)
 Slack ![](https://github.com/IvailoAleksandrov/IvailoAleksandrovResume/blob/main/src/icons/Slack.png)
 Jira ![](https://github.com/IvailoAleksandrov/IvailoAleksandrovResume/blob/main/src/icons/jira.png)
 GitHub ![]
