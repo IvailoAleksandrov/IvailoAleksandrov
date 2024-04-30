@@ -13,11 +13,11 @@ Hi! I am looking for a position as a Manual or Automation QA engineer. I have ex
 - ClickUp
 - Slack
 - ![Slack](https://github.com/IvailoAleksandrov/IvailoAleksandrovResume/blob/main/src/icons/Slack.png)
-- Jira
+  ![Jira](https://github.com/IvailoAleksandrov/IvailoAleksandrovResume/blob/main/src/icons/jira.png)
 - GitHub
 - HTTP
 - Object-Oriented Programming
-- VS Code / Visual Studio
+- ![VS Code](https://github.com/IvailoAleksandrov/IvailoAleksandrovResume/blob/main/src/icons/VS%20Code.webp)
 - SQL Server Management Studio
 - English - B2/C1
  
