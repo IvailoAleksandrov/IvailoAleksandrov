@@ -11,7 +11,7 @@ MS SQL
 HTML5 & CSS
 C#/.NET
 ClickUp
-Slack !(https://github.com/IvailoAleksandrov/IvailoAleksandrovResume/blob/main/src/icons/Slack.png)
+Slack ![](https://github.com/IvailoAleksandrov/IvailoAleksandrovResume/blob/main/src/icons/Slack.png)
 Jira ![Jira](https://github.com/IvailoAleksandrov/IvailoAleksandrovResume/blob/main/src/icons/jira.png)
 GitHub
 HTTP
