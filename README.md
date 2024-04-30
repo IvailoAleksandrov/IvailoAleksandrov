@@ -12,8 +12,8 @@ Hi, My name is Ivailo Aleksandrov. And i works as QA engineer.
 - ![](https://github.com/IvailoAleksandrov/IvailoAleksandrovResume/blob/main/src/icons/clickup.png) **ClickUp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**
  ![](https://github.com/IvailoAleksandrov/IvailoAleksandrovResume/blob/main/src/icons/Slack.png) **Slack&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**
  ![](https://github.com/IvailoAleksandrov/IvailoAleksandrovResume/blob/main/src/icons/jira.png) **Jira**
-- ![](https://github.com/IvailoAleksandrov/IvailoAleksandrovResume/blob/main/src/icons/image.webp) **GitHub&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp**
- ![](https://github.com/IvailoAleksandrov/IvailoAleksandrovResume/blob/main/src/icons/git.webp) **Git&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;;&nbsp;&nbsp;&nbsp;&nbsp;**
+- ![](https://github.com/IvailoAleksandrov/IvailoAleksandrovResume/blob/main/src/icons/image.webp) **GitHub&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**
+ ![](https://github.com/IvailoAleksandrov/IvailoAleksandrovResume/blob/main/src/icons/git.webp) **Git&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**
  ![](https://github.com/IvailoAleksandrov/IvailoAleksandrovResume/blob/main/src/icons/http.webp) **HTTP**
 - ![](https://github.com/IvailoAleksandrov/IvailoAleksandrovResume/blob/main/src/icons/oop.png) **OOP**
  ![](https://github.com/IvailoAleksandrov/IvailoAleksandrovResume/blob/main/src/icons/VS%20Code.webp) **VS Code**
