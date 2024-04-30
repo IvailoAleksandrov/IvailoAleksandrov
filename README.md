@@ -2,19 +2,19 @@ Hi! I am looking for a position as a Manual or Automation QA engineer. I have ex
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 # Skills:
 JavaScript ![](https://github.com/IvailoAleksandrov/IvailoAleksandrovResume/blob/main/src/icons/js.webp)
-Node.js ![]
-Cypress E2E Testing ![]
-Manual/Automation Testing ![]
-POSTMAN API Testing ![]
+Cypress E2E Testing ![](https://github.com/IvailoAleksandrov/IvailoAleksandrovResume/blob/main/src/icons/cypress.webp)
+Manual/Automation Testing ![](https://github.com/IvailoAleksandrov/IvailoAleksandrovResume/blob/main/src/icons/testautomation.png)
+POSTMAN API Testing ![](https://github.com/IvailoAleksandrov/IvailoAleksandrovResume/blob/main/src/icons/postman.png)
 Chrome DevTools ![](https://github.com/IvailoAleksandrov/IvailoAleksandrovResume/blob/main/src/icons/chrome.webp)
-MS SQL ![]
-HTML5 
+MS SQL ![](https://github.com/IvailoAleksandrov/IvailoAleksandrovResume/blob/main/src/icons/sql.png)
+HTML5 ![](https://github.com/IvailoAleksandrov/IvailoAleksandrovResume/blob/main/src/icons/html.webp)
 CSS ![](https://github.com/IvailoAleksandrov/IvailoAleksandrovResume/blob/main/src/icons/css.webp)
-C#/.NET ![]
+C#/.NET ![](https://github.com/IvailoAleksandrov/IvailoAleksandrovResume/blob/main/src/icons/download.webp)
 ClickUp ![](https://github.com/IvailoAleksandrov/IvailoAleksandrovResume/blob/main/src/icons/clickup.png)
 Slack ![](https://github.com/IvailoAleksandrov/IvailoAleksandrovResume/blob/main/src/icons/Slack.png)
 Jira ![](https://github.com/IvailoAleksandrov/IvailoAleksandrovResume/blob/main/src/icons/jira.png)
-GitHub ![]
+GitHub ![](https://github.com/IvailoAleksandrov/IvailoAleksandrovResume/blob/main/src/icons/image.webp)
+Git ![](https://github.com/IvailoAleksandrov/IvailoAleksandrovResume/blob/main/src/icons/git.webp)
 HTTP ![]
 Object-Oriented Programming ![]
 VS Code ![](https://github.com/IvailoAleksandrov/IvailoAleksandrovResume/blob/main/src/icons/VS%20Code.webp)
