@@ -1,7 +1,7 @@
 Hi! I am looking for a position as a Manual or Automation QA engineer. I have experience in Manual Testing and I have completed some courses about Automation testing. My skill set include attention to details, analytical thinking, good communication skills, flexibility to adapt to evolving project requirements, methodologies and tools in both manual and automated testing environment, ability to prioritize tasks, managing deadlines, willingness to continuously learn and stay updated on new testing techniques, technologies and industry best practices. Outside of work, I keep myself fit and active.
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 # Skills:
-JavaScript ![](https://github.com/IvailoAleksandrov/IvailoAleksandrovResume/blob/main/src/icons/js.webp)
+![](https://github.com/IvailoAleksandrov/IvailoAleksandrovResume/blob/main/src/icons/js.webp) JavaScript
 Cypress E2E Testing ![](https://github.com/IvailoAleksandrov/IvailoAleksandrovResume/blob/main/src/icons/cypress.webp)
 Manual/Automation Testing ![](https://github.com/IvailoAleksandrov/IvailoAleksandrovResume/blob/main/src/icons/testautomation.png)
 POSTMAN API Testing ![](https://github.com/IvailoAleksandrov/IvailoAleksandrovResume/blob/main/src/icons/postman.png)
