@@ -12,8 +12,8 @@ Hi! I am looking for a position as a Manual or Automation QA engineer. I have ex
 -  C#/.NET
 - ClickUp
 - Slack
-- ![Slack](https://github.com/IvailoAleksandrov/IvailoAleksandrovResume/blob/main/src/icons/Slack.png)
-- ![Jira](https://github.com/IvailoAleksandrov/IvailoAleksandrovResume/blob/main/src/icons/jira.png)
+![Slack](https://github.com/IvailoAleksandrov/IvailoAleksandrovResume/blob/main/src/icons/Slack.png)
+![Jira](https://github.com/IvailoAleksandrov/IvailoAleksandrovResume/blob/main/src/icons/jira.png)
 - GitHub
 - HTTP
 - Object-Oriented Programming
