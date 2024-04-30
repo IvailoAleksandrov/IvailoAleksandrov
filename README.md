@@ -47,7 +47,7 @@ Thank you for visiting, and I look forward to potentially working together!
 - Software Testing MASTERCLASS-2023-JIRA | AGILE | API Testing
 - Cypress End-to-End Testing (JS)
 - Modern JavaScript From Beginner to Advanced 2.0 - 2023
-- Quality Assurance Course
+- Quality Assurance Course - Switf Academy
 - Software University
   - Programming Basics
   - Fundamentals
