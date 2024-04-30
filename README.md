@@ -12,7 +12,7 @@ Hi! I am looking for a position as a Manual or Automation QA engineer. I have ex
 -  C#/.NET
 - ClickUp
 - Slack
-- ![Slack]([Icon URL](https://github.com/IvailoAleksandrov/IvailoAleksandrovResume/blob/main/src/icons/Slack.png))
+- ![Slack](https://github.com/IvailoAleksandrov/IvailoAleksandrovResume/blob/main/src/icons/Slack.png)
 - Jira
 - GitHub
 - HTTP
