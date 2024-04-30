@@ -1,25 +1,25 @@
 Hi! I am looking for a position as a Manual or Automation QA engineer. I have experience in Manual Testing and I have completed some courses about Automation testing. My skill set include attention to details, analytical thinking, good communication skills, flexibility to adapt to evolving project requirements, methodologies and tools in both manual and automated testing environment, ability to prioritize tasks, managing deadlines, willingness to continuously learn and stay updated on new testing techniques, technologies and industry best practices. Outside of work, I keep myself fit and active.
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 # Skills:
-- JavaScript
-- Node.js
-- Cypress E2E Testing
-- Manual/Automation Testing
-- POSTMAN API Testing 
-- Chrome DevTools
-- MS SQL
-- HTML5 & CSS
--  C#/.NET
-- ClickUp
-- Slack
+JavaScript
+Node.js
+Cypress E2E Testing
+Manual/Automation Testing
+POSTMAN API Testing 
+Chrome DevTools
+MS SQL
+HTML5 & CSS
+C#/.NET
+ClickUp
+Slack
 ![Slack](https://github.com/IvailoAleksandrov/IvailoAleksandrovResume/blob/main/src/icons/Slack.png)
 ![Jira](https://github.com/IvailoAleksandrov/IvailoAleksandrovResume/blob/main/src/icons/jira.png)
-- GitHub
-- HTTP
-- Object-Oriented Programming
-- VS Code![VS Code](https://github.com/IvailoAleksandrov/IvailoAleksandrovResume/blob/main/src/icons/VS%20Code.webp)
-- SQL Server Management Studio
-- English - B2/C1
+GitHub
+HTTP
+Object-Oriented Programming
+VS Code![VS Code](https://github.com/IvailoAleksandrov/IvailoAleksandrovResume/blob/main/src/icons/VS%20Code.webp)
+SQL Server Management Studio
+English - B2/C1
  
 # Projects
 - https://moviecollection1.netlify.app/  "Movie Collection Library App"
