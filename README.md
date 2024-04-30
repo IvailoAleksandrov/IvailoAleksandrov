@@ -2,8 +2,8 @@ Hi! I am looking for a position as a Manual or Automation QA engineer. I have ex
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 # Skills:
 ![](https://github.com/IvailoAleksandrov/IvailoAleksandrovResume/blob/main/src/icons/js.webp) JavaScript
-Cypress E2E Testing ![](https://github.com/IvailoAleksandrov/IvailoAleksandrovResume/blob/main/src/icons/cypress.webp)
-Manual/Automation Testing ![](https://github.com/IvailoAleksandrov/IvailoAleksandrovResume/blob/main/src/icons/testautomation.png)
+![](https://github.com/IvailoAleksandrov/IvailoAleksandrovResume/blob/main/src/icons/cypress.webp) Cypress E2E Testing 
+![](https://github.com/IvailoAleksandrov/IvailoAleksandrovResume/blob/main/src/icons/testautomation.png)Manual/Automation Testing
 POSTMAN API Testing ![](https://github.com/IvailoAleksandrov/IvailoAleksandrovResume/blob/main/src/icons/postman.png)
 Chrome DevTools ![](https://github.com/IvailoAleksandrov/IvailoAleksandrovResume/blob/main/src/icons/chrome.webp)
 MS SQL ![](https://github.com/IvailoAleksandrov/IvailoAleksandrovResume/blob/main/src/icons/sql.png)
