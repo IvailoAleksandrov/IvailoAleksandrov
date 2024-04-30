@@ -7,7 +7,7 @@ Hi! I am looking for a position as a Manual or Automation QA engineer. I have ex
   ![](https://github.com/IvailoAleksandrov/IvailoAleksandrovResume/blob/main/src/icons/chrome.webp) **DevTools&nbsp;**
  ![](https://github.com/IvailoAleksandrov/IvailoAleksandrovResume/blob/main/src/icons/sql.png) **MS SQL**
 - ![](https://github.com/IvailoAleksandrov/IvailoAleksandrovResume/blob/main/src/icons/html.webp) **HTML5&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**
- ![](https://github.com/IvailoAleksandrov/IvailoAleksandrovResume/blob/main/src/icons/css.webp) **CSS**
+ ![](https://github.com/IvailoAleksandrov/IvailoAleksandrovResume/blob/main/src/icons/css.webp) **CSS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**
  ![](https://github.com/IvailoAleksandrov/IvailoAleksandrovResume/blob/main/src/icons/download.webp) **C#/.NET**
 - ![](https://github.com/IvailoAleksandrov/IvailoAleksandrovResume/blob/main/src/icons/clickup.png) **ClickUp**
  ![](https://github.com/IvailoAleksandrov/IvailoAleksandrovResume/blob/main/src/icons/Slack.png) **Slack**
