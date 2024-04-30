@@ -4,7 +4,7 @@ Hi! I am looking for a position as a Manual or Automation QA engineer. I have ex
 
 - ![](https://github.com/IvailoAleksandrov/IvailoAleksandrovResume/blob/main/src/icons/js.webp) **JavaScript&nbsp;**  ![](https://github.com/IvailoAleksandrov/IvailoAleksandrovResume/blob/main/src/icons/cypress.webp) **Cypress&nbsp;&nbsp;&nbsp;**  ![](https://github.com/IvailoAleksandrov/IvailoAleksandrovResume/blob/main/src/icons/testautomation.png) **Testing**
 - ![](https://github.com/IvailoAleksandrov/IvailoAleksandrovResume/blob/main/src/icons/postman.png) **POSTMAN**
-  ![](https://github.com/IvailoAleksandrov/IvailoAleksandrovResume/blob/main/src/icons/chrome.webp) **DevTools**
+  ![](https://github.com/IvailoAleksandrov/IvailoAleksandrovResume/blob/main/src/icons/chrome.webp) **DevTools&nbsp;**
  ![](https://github.com/IvailoAleksandrov/IvailoAleksandrovResume/blob/main/src/icons/sql.png) **MS SQL**
 - ![](https://github.com/IvailoAleksandrov/IvailoAleksandrovResume/blob/main/src/icons/html.webp) **HTML5&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**
  ![](https://github.com/IvailoAleksandrov/IvailoAleksandrovResume/blob/main/src/icons/css.webp) **CSS**
